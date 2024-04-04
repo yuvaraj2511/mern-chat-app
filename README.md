@@ -77,9 +77,4 @@ Follow these steps to deploy the app:
    npm run build
    ```
 
-2. Deploy the built files to your hosting provider.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
